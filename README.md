@@ -1,4 +1,6 @@
-# SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
+### NAME:PRANAV S
+### REG NO:24900037
+### EXPERIMENT: SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
 
 **AIM:**
 
@@ -42,13 +44,7 @@ q[3] <= q[2];
 end
 endmodule
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming.
 
-Developed by:G.Sindhu Priya Reddy
-
-RegisterNumber:24000778
-
-*/
 
 **RTL LOGIC FOR SISO Shift Register**
 

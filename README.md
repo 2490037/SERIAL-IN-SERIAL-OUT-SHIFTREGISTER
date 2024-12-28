@@ -58,6 +58,7 @@ end
 endmodule
 
 
+
 **RTL LOGIC FOR SISO Shift Register**
 
 ![exp10 logicgate](https://github.com/user-attachments/assets/c2bc2fef-a744-4779-8df2-18aafb0ff5f7)
